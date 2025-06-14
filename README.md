@@ -44,7 +44,7 @@ ChatGPT 镜像网站：**[gptcat.cc](https://gptcat.cc)**
 | **镜像站地址**       | **支持版本**                | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|----------------------------|--------------|---------------------|------------|---------------------------------------------|
 | [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4o, GPT-4, GPT-3.5，GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o绘图，适合开发者与普通用户 |
-| [chat2.gptcat.cc](https://chat2.gptcat.cc)         | GPT-4o，GPT-4，GPT-3.5，GPT-o4-mini | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o4-mini模型，内置丰富功能，稳定性高         |
+| [gptcat.cc](https://gptcat.cc)         | GPT-4o，GPT-4，GPT-3.5，GPT-o4-mini | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o4-mini模型，内置丰富功能，稳定性高         |
 | [ai-panda.xyz](https://ai-panda.xyz/) | GPT-4，GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5         | 有              | 国内邮箱支持        | ⭐⭐⭐      | 简单易用，适合基础聊天用途                     |
 
